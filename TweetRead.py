@@ -30,25 +30,25 @@ import json
 # In[ ]:
 
 
-consumer_key = 'RepN9liYtNkjGKHjs7mYIqMdu'
+consumer_key = ''
 
 
 # In[ ]:
 
 
-consumer_secret= '0W5CGbAtiyTj2AYMGuEPGUs2EBPanpFssSOS4yl2zuIDE4JFY9'
+consumer_secret= ''
 
 
 # In[ ]:
 
 
-access_token= '1209197420271357953-hWAW4Xjkywh2VBdyBbyYlHIm96Nm8I'
+access_token= ''
 
 
 # In[ ]:
 
 
-access_secret= "LYqRlIooJomFzTr2sDDrhjT6ID4v2tZKT4cyOwlHrvU1Y"
+access_secret= ""
 
 
 # In[ ]:
